@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swadhin S Maharana</h1>
 <h3 align="center">A passionate Full-Stack Dev. currently doing paid contracts : )</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cursorhigh" alt="cursorhigh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/swadhin_m_" target="blank"><img src="https://img.shields.io/twitter/follow/swadhin_m_?logo=twitter&style=for-the-badge" alt="swadhin_m_" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cursorhigh&show_icons=true&locale=en&layout=compact" alt="cursorhigh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cursorhigh&show_icons=true&locale=en" alt="cursorhigh" /></p>
@@ -11,23 +10,17 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cursorhigh&" alt="cursorhigh" /></p>
 
 
-- 🔭 I’m currently working on [Buisness Website]((Private for now))
+- 🔭 I’m currently working on a Buisness Website (Private for now)
 
 - 🌱 I’m currently learning **Next.Js, TailWindcss, TypeScript , C lang, Kali OS, & more**
 
 - 👯 I’m looking to collaborate on **AI ML Projects**
 
-- 🤝 I’m looking for help with **CTF and Cyber Sec. Hackathons**
-
-- 👨‍💻 All of my projects are available at [currently working on it : /](currently working on it : /)
-
-- 📝 I write articles on [https://medium.com/@swadhinmaharana212](https://medium.com/@swadhinmaharana212)
+- 📝 I write articles on [medium@swadhin](https://medium.com/@swadhinmaharana212)
 
 - 💬 Ask me about **react.js , react native(EXPO), Django(PY), JavaScript, AWS Hosting , Git-Github, Redis, Mysql, Sqlite3**
 
 - 📫 How to reach me **swadhinmaharana212@gmail.com**
-
-- 📄 Know about my experiences [currently working on it : /](currently working on it : /)
 
 - ⚡ Fun fact **I can multi-task and able to do it with patience**
 
