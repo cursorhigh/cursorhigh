@@ -1,7 +1,7 @@
 <h1 align="center">⚡ cursorhigh ⚡</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/115407035?v=4" width="150" height="150" style="border-radius:50%; border: 4px solid red;" />
+  <img src="https://avatars.githubusercontent.com/u/115407035?v=4" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 
