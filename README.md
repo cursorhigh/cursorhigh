@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;React.js+%7C+Django+%7C+AWS+%7C+Redis;Next.js+%7C+Tailwind+%7C+TypeScript+%7C+C;Building+Scalable+and+Efficient+Web+Apps;Open+for+Collabs+on+AI%2FML+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;React.js+%7C+Django+%7C+AWS+%7C+Redis;Next.js+%7C+Tailwind+%7C+TypeScript+%7C+C;Building+Scalable+and+Efficient+Web+Apps" />
 </p>
 
 
