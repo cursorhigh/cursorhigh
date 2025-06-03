@@ -19,8 +19,8 @@
 - 💼 Working on **E-commerce platforms, Security tools, and AI-driven apps**
 - 🚀 **Currently Building:** A real-time **sound-sync web app** with chat and AI topic suggestions.
 - 🏆 **Hackathons & Achievements:**
-  - was Part of **Lewis Menelaws' Team**
-  - Built **Chemotrade [paid]**, a chemical trading e-commerce platform  
+  - Built **Chemotrade [paid]**, a chemical trading e-commerce platform
+  - Built **Madhav's group [paid]**, a Showcase site for madhav groups platform  
   - **Got high ranks in multiple CTFS**
   
 ---
