@@ -54,7 +54,7 @@ _A mathematical RSA implementation project built using Flask. Developed as part 
 🎮 **[BMX IQ Race GFG](https://medium.com/@swadhinmaharana212/)**
 _A quiz-based racing game developed during a GFG hackathon. It creatively blends competitive racing mechanics with educational quiz elements, making learning both fun and engaging._
 
-⚙️ **[ChEngine.exe Game Engine](https://cursornigh.itch.io/chengine)**
+⚙️ **[ChEngine.exe Game Engine](https://cursorhigh.itch.io/chengine)**
 _An advanced game engine developed in high school, featuring user accounts, online and offline game modes, leaderboards, and more. It showcases early skills in game development and system integration._
 
 ---
